@@ -21,6 +21,12 @@ After you have done all these steps, it's time for you to start your bot, make s
 
 **NOTES:** *Remembering that this bot is not my __own__, I just edited a few things and also translated it into __Brazilian Portuguese__.*
 
+# BOT COMMANDS 💻
+
+* `/add` Here you can add a person to an existing ticket by another user
+* `/ajuda` This command gives you a brief hint on how to use the commands correctly
+* `/botinfos` Here is the bot credits
+
 --------------------------------------------
 By [GN](https://github.com/GNwal)
 
